@@ -1,0 +1,151 @@
+Responden_ID,Jenis_Kelamin,Kelompok_Usia,Pendidikan,Pengalaman_Kerja,Divisi,PU1_Model_segmentasi_meningkatkan_efisiensi_kerja,PU2_Model_membantu_menyelesaikan_pekerjaan_lebih_cepat,PU3_Model_meningkatkan_produktivitas,PU4_Model_meningkatkan_kualitas_keputusan_pemasaran,PU5_Model_segmentasi_berguna_bagi_bisnis,PEOU1_Mudah_mempelajari_model_segmentasi,PEOU2_Mudah_mengoperasikan_model,PEOU3_Antarmuka_model_jelas_dan_mudah_dipahami,PEOU4_Mudah_menjadi_terampil_menggunakan_model,PEOU5_Model_segmentasi_tidak_memerlukan_usaha_besar,ATU1_Menggunakan_model_segmentasi_adalah_ide_baik,ATU2_Penggunaan_model_merupakan_keputusan_bijak,ATU3_Saya_menyukai_penggunaan_model_segmentasi,ATU4_Model_segmentasi_memberikan_pengalaman_positif,BI1_Saya_berniat_menggunakan_model_di_masa_depan,BI2_Saya_akan_selalu_mencoba_menggunakan_model,BI3_Saya_berencana_menggunakan_model_secara_rutin,BI4_Saya_akan_merekomendasikan_model_kepada_rekan,ASU1_Saya_menggunakan_model_secara_rutin,ASU2_Frekuensi_penggunaan_model_saya_tinggi,ASU3_Model_sudah_terintegrasi_dalam_pekerjaan_saya
+R001,Laki-laki,35-44,SMA/Sederajat,4-6 tahun,Penjualan,4,4,4,4,5,4,4,4,4,4,3,3,3,3,5,4,4,4,4,4,4
+R002,Laki-laki,35-44,SMA/Sederajat,>6 tahun,CRM,4,5,4,3,3,3,4,3,4,4,3,3,4,4,5,4,4,5,4,4,3
+R003,Perempuan,<25,S1,<1 tahun,Analis Data,3,3,3,3,4,4,4,4,5,5,5,4,5,4,4,3,3,2,4,5,3
+R004,Laki-laki,45-54,S1,1-3 tahun,Pemasaran,4,4,5,4,5,5,5,5,5,4,5,5,4,5,4,4,5,5,5,5,5
+R005,Perempuan,25-34,S1,4-6 tahun,Analis Data,4,3,5,4,5,3,3,4,3,4,5,3,4,3,3,4,3,4,4,4,3
+R006,Laki-laki,25-34,S1,>6 tahun,CRM,3,4,3,4,3,4,4,4,4,4,3,5,3,3,3,3,2,4,4,4,4
+R007,Perempuan,45-54,S1,1-3 tahun,Analis Data,5,5,5,5,5,5,5,4,5,5,5,5,5,5,5,5,5,5,4,4,4
+R008,Perempuan,≥55,S2/S3,4-6 tahun,Pemasaran,4,5,5,4,4,5,5,4,4,4,3,4,3,2,3,4,4,4,3,3,3
+R009,Perempuan,45-54,S1,<1 tahun,Penjualan,3,3,3,3,3,4,5,3,3,3,4,4,4,4,3,4,3,3,1,3,3
+R010,Laki-laki,45-54,SMA/Sederajat,1-3 tahun,Penjualan,5,5,5,5,4,4,3,4,4,4,3,4,4,4,4,3,4,2,5,3,5
+R011,Laki-laki,35-44,S1,>6 tahun,Pemasaran,4,4,3,3,3,4,4,3,5,4,3,3,3,2,5,5,4,4,5,3,4
+R012,Laki-laki,35-44,Diploma,>6 tahun,Pemasaran,3,5,4,4,4,3,4,3,4,4,4,5,5,4,4,5,4,5,4,4,4
+R013,Perempuan,<25,Diploma,<1 tahun,Pemasaran,3,5,5,5,5,4,4,4,3,5,4,5,4,5,4,4,3,5,4,5,4
+R014,Laki-laki,25-34,S2/S3,>6 tahun,Analis Data,3,3,3,2,3,2,2,2,2,2,3,3,3,3,3,4,4,4,4,2,2
+R015,Laki-laki,25-34,Diploma,4-6 tahun,Analis Data,3,5,5,5,5,2,2,3,3,3,4,4,4,4,4,4,5,4,5,4,5
+R016,Perempuan,25-34,S1,>6 tahun,Analis Data,4,4,5,4,4,4,4,3,5,4,3,4,3,4,4,4,3,4,4,4,3
+R017,Laki-laki,35-44,S1,4-6 tahun,Pemasaran,3,5,4,5,3,3,3,3,2,3,4,3,4,4,4,4,4,4,4,4,3
+R018,Perempuan,35-44,S1,4-6 tahun,CRM,4,5,5,5,5,4,5,4,3,5,5,4,4,4,4,5,5,5,5,4,5
+R019,Laki-laki,<25,S1,4-6 tahun,Analis Data,4,3,4,3,3,3,2,3,4,4,3,3,2,4,3,4,4,4,4,3,4
+R020,Laki-laki,25-34,SMA/Sederajat,4-6 tahun,Analis Data,3,3,3,2,3,3,3,3,3,3,3,4,3,2,3,3,3,2,3,3,2
+R021,Perempuan,35-44,S1,1-3 tahun,IT/Teknologi,3,4,4,3,3,4,4,5,5,5,5,4,4,5,2,4,3,5,3,3,3
+R022,Laki-laki,<25,S1,<1 tahun,Pemasaran,2,3,3,2,4,5,4,4,4,4,4,3,3,4,3,2,1,2,3,3,3
+R023,Perempuan,45-54,SMA/Sederajat,1-3 tahun,Analis Data,4,4,4,4,3,3,4,3,2,4,3,3,2,3,3,2,3,3,5,5,4
+R024,Laki-laki,35-44,S1,4-6 tahun,CRM,4,4,4,4,5,3,2,3,3,3,5,4,5,5,5,5,5,4,5,4,5
+R025,Laki-laki,35-44,SMA/Sederajat,1-3 tahun,CRM,3,4,3,3,4,3,2,4,4,3,4,4,4,4,5,4,5,5,5,5,5
+R026,Perempuan,35-44,SMA/Sederajat,4-6 tahun,Penjualan,5,5,5,5,5,4,4,3,4,5,3,3,3,3,3,4,4,3,3,3,4
+R027,Perempuan,45-54,S1,>6 tahun,Analis Data,4,3,4,3,3,3,3,3,2,2,4,4,4,3,5,4,4,3,4,3,3
+R028,Perempuan,25-34,Diploma,<1 tahun,IT/Teknologi,5,5,5,5,5,4,4,5,4,5,5,5,5,5,5,5,5,5,4,4,4
+R029,Laki-laki,35-44,S1,4-6 tahun,Pemasaran,4,3,2,4,4,3,4,3,3,4,3,3,4,5,5,5,5,5,4,5,5
+R030,Perempuan,35-44,S1,4-6 tahun,Pemasaran,5,4,5,5,5,3,3,3,4,3,5,4,4,4,5,5,5,5,5,4,5
+R031,Laki-laki,25-34,S2/S3,>6 tahun,Penjualan,5,4,5,4,4,4,4,4,3,4,4,3,3,3,4,4,4,3,2,3,2
+R032,Laki-laki,45-54,Diploma,1-3 tahun,Analis Data,4,4,4,3,4,5,5,5,5,4,3,4,3,4,3,4,3,3,4,5,5
+R033,Perempuan,45-54,Diploma,4-6 tahun,Pemasaran,3,4,3,2,3,4,3,4,3,4,3,3,3,3,2,2,2,3,3,4,3
+R034,Laki-laki,35-44,Diploma,>6 tahun,Pemasaran,3,4,4,3,4,2,3,3,3,4,3,1,3,2,4,4,4,4,3,3,3
+R035,Perempuan,45-54,S1,>6 tahun,Pemasaran,4,3,4,4,4,3,4,5,5,4,5,4,5,5,4,4,4,4,2,3,3
+R036,Laki-laki,45-54,S1,4-6 tahun,IT/Teknologi,3,5,4,3,5,3,3,2,3,3,4,4,3,5,3,3,3,3,3,1,2
+R037,Laki-laki,35-44,SMA/Sederajat,4-6 tahun,Pemasaran,4,5,4,4,5,5,4,5,4,5,3,4,3,3,3,3,4,5,4,3,3
+R038,Laki-laki,45-54,S2/S3,4-6 tahun,CRM,4,4,3,3,2,3,2,3,2,2,3,2,3,2,3,3,2,3,3,3,3
+R039,Perempuan,35-44,SMA/Sederajat,>6 tahun,Pemasaran,2,3,3,3,3,3,2,3,3,2,2,3,3,2,4,3,4,4,2,3,3
+R040,Perempuan,35-44,S1,4-6 tahun,CRM,2,2,2,3,3,4,4,4,4,5,3,4,3,3,3,4,3,3,3,3,3
+R041,Perempuan,35-44,S1,<1 tahun,Pemasaran,5,4,5,4,4,4,4,4,5,5,3,2,3,4,3,5,3,4,3,3,4
+R042,Perempuan,45-54,S2/S3,>6 tahun,Analis Data,4,5,4,5,4,4,3,4,3,4,4,4,4,4,4,5,5,5,5,5,5
+R043,Perempuan,25-34,S1,4-6 tahun,Pemasaran,4,5,5,3,5,3,4,4,5,4,3,4,3,4,5,4,3,5,3,5,2
+R044,Perempuan,45-54,S2/S3,4-6 tahun,Penjualan,4,4,4,4,4,4,3,4,4,4,3,3,3,3,2,3,2,3,1,2,3
+R045,Laki-laki,45-54,S1,1-3 tahun,Pemasaran,3,3,4,3,3,3,3,3,3,2,3,3,3,2,5,4,3,4,4,4,4
+R046,Laki-laki,<25,S2/S3,4-6 tahun,Analis Data,5,3,4,4,4,4,4,3,4,3,4,4,4,4,5,4,4,4,4,4,3
+R047,Laki-laki,45-54,SMA/Sederajat,1-3 tahun,IT/Teknologi,4,3,3,4,3,4,3,4,4,4,1,1,3,3,2,3,2,3,1,1,1
+R048,Perempuan,25-34,S2/S3,4-6 tahun,Analis Data,4,3,4,4,4,5,4,4,5,5,2,3,3,2,2,3,4,5,3,4,4
+R049,Perempuan,25-34,S1,<1 tahun,Analis Data,5,4,4,5,4,5,5,4,4,4,3,4,3,4,3,3,3,4,4,3,3
+R050,Laki-laki,35-44,S2/S3,4-6 tahun,CRM,2,3,3,3,3,3,2,2,3,2,3,2,2,3,2,3,2,3,2,3,3
+R051,Perempuan,25-34,S1,>6 tahun,CRM,5,4,4,4,5,4,4,4,5,5,3,4,4,5,4,5,5,5,5,5,5
+R052,Perempuan,45-54,S1,<1 tahun,Analis Data,4,3,5,4,4,3,4,3,3,3,4,5,5,4,5,5,5,5,5,5,5
+R053,Laki-laki,45-54,S1,>6 tahun,IT/Teknologi,5,5,4,4,5,3,4,3,3,3,4,4,4,4,4,3,4,4,4,4,3
+R054,Perempuan,35-44,S1,1-3 tahun,Analis Data,5,4,5,5,5,5,4,5,4,5,5,4,5,4,5,5,4,4,4,3,3
+R055,Perempuan,<25,SMA/Sederajat,>6 tahun,Analis Data,3,3,3,3,3,4,4,4,4,5,4,3,4,4,3,3,3,3,5,5,5
+R056,Laki-laki,25-34,SMA/Sederajat,>6 tahun,Penjualan,3,2,3,3,4,4,5,4,5,5,3,3,4,4,2,4,4,3,3,3,4
+R057,Perempuan,35-44,Diploma,4-6 tahun,CRM,4,4,4,4,4,3,4,4,4,3,4,4,3,4,3,3,4,4,3,2,4
+R058,Laki-laki,≥55,Diploma,4-6 tahun,Pemasaran,4,5,4,3,5,4,4,4,3,4,2,4,4,3,3,3,3,4,4,4,4
+R059,Perempuan,35-44,S2/S3,>6 tahun,Analis Data,5,5,5,4,5,4,4,3,4,4,5,4,5,4,5,4,4,4,4,4,4
+R060,Perempuan,25-34,Diploma,1-3 tahun,IT/Teknologi,5,5,5,5,5,5,4,5,5,5,5,5,4,5,4,5,5,3,4,4,4
+R061,Perempuan,35-44,S2/S3,1-3 tahun,Pemasaran,4,4,4,4,4,3,3,3,4,2,4,4,3,4,5,4,4,4,4,4,4
+R062,Laki-laki,35-44,S1,4-6 tahun,Analis Data,5,5,5,4,5,5,4,4,2,4,5,4,4,5,5,4,4,5,3,3,3
+R063,Perempuan,45-54,Diploma,>6 tahun,Pemasaran,3,4,4,5,4,2,3,3,3,3,2,4,4,3,4,4,4,4,4,4,3
+R064,Perempuan,25-34,S1,>6 tahun,Analis Data,3,4,4,3,3,2,4,3,3,2,5,4,3,5,3,3,3,4,3,4,3
+R065,Laki-laki,45-54,S1,>6 tahun,Pemasaran,5,4,4,4,4,4,5,4,5,5,4,5,4,5,4,4,3,4,3,3,4
+R066,Perempuan,35-44,S1,4-6 tahun,CRM,4,5,5,5,4,4,4,5,5,5,4,5,4,4,5,5,4,4,4,4,5
+R067,Laki-laki,≥55,S1,>6 tahun,Penjualan,3,3,4,3,3,4,4,3,3,5,4,3,4,3,5,4,3,4,3,4,4
+R068,Perempuan,25-34,S1,1-3 tahun,CRM,4,4,4,5,4,5,4,4,5,5,4,4,4,4,3,4,3,3,4,5,5
+R069,Laki-laki,35-44,Diploma,4-6 tahun,Analis Data,4,3,4,3,3,4,4,4,4,4,3,4,4,4,4,4,3,5,3,2,2
+R070,Laki-laki,≥55,S2/S3,<1 tahun,Penjualan,4,3,4,4,4,3,3,3,3,3,3,3,4,3,4,4,4,4,5,4,5
+R071,Laki-laki,25-34,S2/S3,1-3 tahun,IT/Teknologi,5,5,5,5,4,3,5,5,4,4,4,5,4,4,3,4,3,3,4,5,4
+R072,Perempuan,≥55,S1,1-3 tahun,Pemasaran,3,3,3,3,3,5,5,5,5,5,5,4,4,4,3,4,4,4,3,3,3
+R073,Laki-laki,35-44,Diploma,1-3 tahun,CRM,4,5,5,5,4,4,4,4,4,4,5,5,4,5,4,4,4,4,3,3,4
+R074,Perempuan,<25,S1,4-6 tahun,Pemasaran,4,3,4,3,3,5,5,5,4,5,4,5,5,3,4,3,3,4,4,5,4
+R075,Laki-laki,25-34,SMA/Sederajat,1-3 tahun,IT/Teknologi,3,4,3,3,3,2,2,2,2,1,4,3,5,4,3,3,4,4,2,2,3
+R076,Laki-laki,35-44,SMA/Sederajat,4-6 tahun,IT/Teknologi,5,5,4,5,5,5,5,5,5,5,5,4,4,3,3,4,4,3,3,2,3
+R077,Laki-laki,<25,S1,1-3 tahun,Analis Data,5,4,5,4,3,3,4,4,4,4,4,5,5,4,4,3,3,3,3,3,2
+R078,Perempuan,35-44,S1,1-3 tahun,Penjualan,3,3,3,4,3,4,5,4,3,3,4,3,3,3,3,3,4,5,4,4,5
+R079,Laki-laki,25-34,S2/S3,1-3 tahun,Analis Data,4,2,2,4,3,4,4,4,4,4,5,5,5,4,5,5,4,4,5,5,4
+R080,Perempuan,35-44,S1,<1 tahun,Analis Data,5,4,4,3,3,3,3,2,2,2,3,2,3,2,2,3,3,3,3,4,3
+R081,Perempuan,<25,S1,4-6 tahun,Pemasaran,3,4,3,4,4,5,4,4,4,4,3,2,3,2,4,4,3,3,5,4,4
+R082,Perempuan,45-54,S1,4-6 tahun,Penjualan,5,4,4,3,4,4,4,5,5,5,5,4,4,5,3,2,2,3,2,3,3
+R083,Laki-laki,≥55,S1,4-6 tahun,Pemasaran,4,4,5,5,4,5,5,5,5,5,3,4,2,3,3,4,3,4,3,3,3
+R084,Laki-laki,≥55,S1,4-6 tahun,Penjualan,3,4,3,4,2,3,3,3,3,4,3,3,3,3,3,3,3,2,2,2,2
+R085,Perempuan,35-44,S2/S3,1-3 tahun,Penjualan,5,4,5,4,5,3,3,4,3,3,4,4,3,4,5,4,4,5,3,2,3
+R086,Laki-laki,25-34,SMA/Sederajat,>6 tahun,Penjualan,4,4,4,4,3,4,3,3,4,3,5,4,4,4,3,4,3,5,4,5,3
+R087,Perempuan,45-54,S2/S3,4-6 tahun,Pemasaran,3,3,3,2,3,5,5,5,5,4,3,3,3,4,3,4,3,3,3,3,4
+R088,Laki-laki,<25,S1,4-6 tahun,CRM,5,3,4,4,4,4,5,5,5,4,5,5,5,5,3,5,4,4,4,3,3
+R089,Perempuan,<25,S1,<1 tahun,Pemasaran,3,3,4,3,4,3,4,3,3,3,4,4,5,5,4,4,4,5,5,4,5
+R090,Perempuan,25-34,S1,1-3 tahun,CRM,4,4,5,5,4,4,5,4,5,3,4,5,4,5,5,4,4,4,4,3,4
+R091,Perempuan,35-44,S1,1-3 tahun,Pemasaran,3,4,3,4,2,3,4,4,4,4,3,3,3,2,4,4,4,4,4,2,3
+R092,Laki-laki,45-54,S2/S3,1-3 tahun,IT/Teknologi,3,4,5,5,4,5,5,5,4,4,5,5,4,4,3,4,4,4,4,4,4
+R093,Perempuan,35-44,S2/S3,4-6 tahun,Analis Data,5,3,4,4,5,2,3,3,4,3,3,3,2,3,4,4,3,4,3,3,3
+R094,Laki-laki,25-34,S1,4-6 tahun,CRM,4,5,5,4,5,4,3,4,4,3,5,5,5,5,5,5,5,5,5,4,5
+R095,Laki-laki,25-34,S1,4-6 tahun,CRM,3,3,3,2,3,5,4,3,3,4,5,4,4,4,1,3,3,2,3,3,3
+R096,Perempuan,≥55,S1,>6 tahun,CRM,3,3,4,3,3,3,3,3,2,3,3,3,3,2,2,3,3,2,4,3,3
+R097,Perempuan,25-34,S2/S3,>6 tahun,Analis Data,4,4,4,4,4,4,4,4,4,5,3,3,2,4,5,3,4,4,4,5,3
+R098,Perempuan,35-44,Diploma,4-6 tahun,Analis Data,4,4,3,4,3,4,4,5,4,4,4,5,3,5,5,4,4,5,3,2,2
+R099,Perempuan,25-34,S1,>6 tahun,IT/Teknologi,5,4,5,4,5,4,3,5,4,3,4,3,4,4,5,5,5,5,5,5,5
+R100,Laki-laki,45-54,S1,<1 tahun,Analis Data,4,4,4,4,4,4,3,3,4,3,5,4,5,5,3,5,3,3,4,4,3
+R101,Laki-laki,35-44,S1,1-3 tahun,IT/Teknologi,3,3,3,3,3,2,3,2,4,2,2,2,1,2,4,3,2,3,3,2,2
+R102,Perempuan,25-34,Diploma,<1 tahun,Penjualan,4,5,3,4,5,4,4,4,4,3,4,4,4,3,5,3,4,3,4,4,5
+R103,Laki-laki,<25,S1,4-6 tahun,Pemasaran,5,5,5,5,5,3,4,3,4,3,4,4,5,4,5,5,5,5,4,4,5
+R104,Laki-laki,35-44,S2/S3,>6 tahun,IT/Teknologi,5,4,4,5,4,3,3,3,4,3,4,4,3,4,4,4,4,4,3,3,3
+R105,Laki-laki,35-44,Diploma,1-3 tahun,Pemasaran,3,2,3,3,3,4,4,4,3,3,2,2,3,3,3,4,3,5,3,3,2
+R106,Laki-laki,25-34,Diploma,>6 tahun,Penjualan,4,4,5,4,3,5,4,3,4,4,4,4,5,4,4,4,4,3,4,4,4
+R107,Laki-laki,≥55,S2/S3,<1 tahun,CRM,5,5,5,5,5,4,5,5,5,5,5,3,4,3,4,5,4,3,3,3,2
+R108,Laki-laki,25-34,Diploma,>6 tahun,Penjualan,4,2,3,3,3,4,4,4,4,4,3,4,5,3,4,4,3,3,5,4,5
+R109,Laki-laki,25-34,S2/S3,1-3 tahun,Penjualan,4,4,4,4,4,5,4,4,4,4,4,4,3,4,5,5,5,3,3,2,3
+R110,Laki-laki,≥55,S1,<1 tahun,Penjualan,4,5,5,4,4,3,4,5,3,3,4,4,5,4,3,5,3,4,5,5,5
+R111,Perempuan,25-34,Diploma,4-6 tahun,Penjualan,3,1,2,3,2,2,1,2,2,2,3,3,3,4,4,4,4,2,3,4,3
+R112,Laki-laki,35-44,S2/S3,1-3 tahun,CRM,3,3,4,4,4,3,4,4,3,3,2,4,3,2,5,5,5,5,3,3,4
+R113,Laki-laki,25-34,S1,1-3 tahun,Pemasaran,2,2,2,2,2,4,4,4,4,4,2,2,2,2,3,3,4,2,3,2,2
+R114,Perempuan,25-34,S1,1-3 tahun,CRM,4,5,4,5,4,5,5,5,5,5,4,5,5,5,5,4,4,4,4,4,4
+R115,Laki-laki,≥55,S1,>6 tahun,Pemasaran,4,4,4,4,3,3,4,4,4,4,4,4,4,5,4,5,4,5,4,4,4
+R116,Perempuan,25-34,S1,4-6 tahun,Analis Data,3,3,4,3,3,4,4,4,5,4,2,3,2,3,3,3,2,3,4,4,5
+R117,Perempuan,45-54,Diploma,1-3 tahun,CRM,5,5,3,5,5,5,4,4,3,4,5,5,5,5,3,4,3,3,4,3,3
+R118,Laki-laki,25-34,S1,4-6 tahun,IT/Teknologi,4,3,3,2,2,3,3,3,4,4,3,3,3,3,2,3,3,3,4,2,3
+R119,Laki-laki,25-34,S2/S3,4-6 tahun,Analis Data,4,4,4,5,4,5,5,5,5,5,5,5,5,5,3,3,4,3,3,3,4
+R120,Perempuan,<25,S1,1-3 tahun,Penjualan,5,4,3,4,4,4,4,4,5,4,5,5,5,4,5,3,3,4,3,4,4
+R121,Perempuan,35-44,S1,1-3 tahun,Pemasaran,5,5,5,5,4,4,5,4,4,4,5,5,5,5,4,5,5,4,5,4,5
+R122,Laki-laki,25-34,S1,1-3 tahun,Penjualan,2,2,3,3,2,3,3,3,4,2,5,4,4,3,5,5,5,5,3,2,3
+R123,Perempuan,45-54,S1,1-3 tahun,IT/Teknologi,5,5,5,4,5,5,5,5,4,5,5,4,4,5,5,4,4,3,4,3,3
+R124,Laki-laki,35-44,Diploma,4-6 tahun,Analis Data,4,4,4,3,4,3,3,3,3,2,4,4,3,4,4,4,4,3,4,4,3
+R125,Perempuan,≥55,S2/S3,1-3 tahun,Analis Data,4,4,4,3,4,4,3,4,4,5,5,4,5,4,4,5,4,4,4,4,3
+R126,Laki-laki,25-34,S1,4-6 tahun,Penjualan,5,5,5,5,5,5,5,5,5,5,5,5,5,5,3,4,3,4,3,3,4
+R127,Perempuan,45-54,Diploma,4-6 tahun,Pemasaran,4,4,5,5,4,2,3,3,2,3,2,2,3,2,4,3,3,4,4,4,4
+R128,Perempuan,45-54,SMA/Sederajat,<1 tahun,Analis Data,3,2,4,5,3,4,3,4,3,3,3,4,4,4,4,3,4,3,4,3,5
+R129,Perempuan,45-54,Diploma,4-6 tahun,CRM,4,4,4,4,4,4,3,4,4,5,4,4,4,5,2,3,3,3,3,3,3
+R130,Laki-laki,45-54,S1,1-3 tahun,Pemasaran,3,3,3,4,3,3,4,3,3,3,2,2,3,2,5,3,4,4,2,3,4
+R131,Laki-laki,45-54,S1,>6 tahun,CRM,3,3,3,2,4,2,2,3,3,4,3,3,3,2,4,4,3,3,3,3,3
+R132,Laki-laki,35-44,S2/S3,4-6 tahun,Pemasaran,5,5,4,4,4,4,5,4,3,4,2,3,4,2,3,3,3,3,3,3,2
+R133,Laki-laki,25-34,S1,>6 tahun,Pemasaran,5,5,5,4,3,3,3,3,3,3,4,3,3,4,5,5,5,4,4,4,5
+R134,Laki-laki,<25,Diploma,4-6 tahun,Pemasaran,3,3,3,3,3,4,3,3,4,4,4,4,4,4,5,5,5,5,3,4,4
+R135,Perempuan,45-54,S1,<1 tahun,IT/Teknologi,4,5,5,5,5,4,3,3,3,3,4,5,5,4,5,5,5,5,5,5,5
+R136,Laki-laki,35-44,S1,4-6 tahun,Analis Data,3,4,3,3,4,5,5,5,5,4,4,5,4,4,4,4,4,4,4,4,4
+R137,Laki-laki,45-54,Diploma,>6 tahun,IT/Teknologi,4,4,4,2,4,3,3,3,3,3,3,4,4,4,4,4,3,5,3,4,4
+R138,Perempuan,35-44,Diploma,4-6 tahun,CRM,4,3,5,5,5,3,3,5,4,4,3,2,2,3,4,4,3,2,4,4,5
+R139,Perempuan,25-34,SMA/Sederajat,>6 tahun,CRM,4,5,4,4,4,5,5,5,5,4,2,3,3,3,4,3,4,3,5,5,5
+R140,Perempuan,25-34,S1,>6 tahun,Analis Data,3,3,3,3,3,3,3,3,3,2,4,3,3,3,3,2,2,3,3,3,4
+R141,Perempuan,35-44,S1,1-3 tahun,CRM,3,5,3,5,3,4,5,5,3,4,5,4,4,3,3,4,4,4,2,2,3
+R142,Laki-laki,25-34,S1,1-3 tahun,Pemasaran,4,5,3,3,4,5,5,5,4,5,4,4,5,5,4,4,4,4,3,3,3
+R143,Laki-laki,25-34,S2/S3,4-6 tahun,Analis Data,3,3,3,2,3,3,2,3,3,3,2,1,2,2,3,3,4,3,3,2,3
+R144,Perempuan,35-44,S2/S3,1-3 tahun,Pemasaran,5,5,4,4,5,4,3,4,3,4,4,5,4,5,4,5,5,4,4,5,4
+R145,Perempuan,<25,S1,>6 tahun,Analis Data,4,4,4,5,4,3,4,5,4,5,3,3,3,3,4,4,4,5,5,5,4
+R146,Laki-laki,35-44,S2/S3,>6 tahun,Analis Data,3,4,3,5,3,5,5,4,4,4,4,4,5,5,3,2,4,4,3,3,4
+R147,Perempuan,25-34,Diploma,1-3 tahun,Pemasaran,4,4,3,3,4,3,2,3,3,2,4,4,3,4,5,4,4,4,4,4,3
+R148,Laki-laki,45-54,Diploma,1-3 tahun,Pemasaran,3,3,4,4,4,3,2,2,3,2,3,3,3,3,4,2,3,2,2,2,3
+R149,Laki-laki,25-34,S1,>6 tahun,Penjualan,5,4,4,4,4,3,4,5,4,5,4,3,3,4,5,3,3,3,3,4,3
+R150,Laki-laki,35-44,SMA/Sederajat,1-3 tahun,CRM,4,5,5,4,3,5,4,4,5,4,3,4,4,3,3,4,4,3,3,3,3
